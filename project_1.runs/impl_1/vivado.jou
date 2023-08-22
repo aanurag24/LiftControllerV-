@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Aug 22 20:25:56 2023
+# Process ID: 5896
+# Current directory: E:/Vlsi-pro/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log LiftC.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source LiftC.tcl -notrace
+# Log file: E:/Vlsi-pro/project_1/project_1.runs/impl_1/LiftC.vdi
+# Journal file: E:/Vlsi-pro/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source LiftC.tcl -notrace

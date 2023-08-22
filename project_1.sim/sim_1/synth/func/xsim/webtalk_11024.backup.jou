@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Apr 18 16:55:44 2023
+# Process ID: 11024
+# Current directory: E:/Vlsi-pro/project_1/project_1.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source E:/Vlsi-pro/project_1/project_1.sim/sim_1/synth/func/xsim/xsim.dir/LiftC_Tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/Vlsi-pro/project_1/project_1.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: E:/Vlsi-pro/project_1/project_1.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/Vlsi-pro/project_1/project_1.sim/sim_1/synth/func/xsim/xsim.dir/LiftC_Tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
