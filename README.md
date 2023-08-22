@@ -7,9 +7,9 @@ floors are defined as first floor and second etc.
   1) A floor call is serviced using the elevator.
   2) Upon arrival at a floor, the doors open immediately.
   3) Doors remain open before closure.
-  4) If an obstruction is detected when door is about to close, it remains open 5)
-    Each elevator car is treated as a sub-system controlled by the controller. 6)
-    Elevator Up/Down buttons are connected to elevator units.
+  4) If an obstruction is detected when door is about to close, it remains open
+  5) Each elevator car is treated as a sub-system controlled by the controller.
+  6) Elevator Up/Down buttons are connected to elevator units.
   7) Each door unit is treated as a subsystem controlled by the respective elevator
     car.
 The elevator controller is based on the concept of finite state machine technology.
